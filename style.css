@@ -1,5 +1,5 @@
 body {
-    background: #1d03af
+    background: #06cdf0
 }
 
 #logo {
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-    color: red;
+    color: rgb(24, 54, 189);
 }
 
 .itens {

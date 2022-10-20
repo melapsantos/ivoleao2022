@@ -3,14 +3,13 @@ body {
 }
 
 #banner {
-    width: 100px;
-    height: 100px;
+    width:  350px;
+    height: 350px;
 }
 
 h1 {
     text-align: center;
-    height: 150px;
-    border: 10px solid #000000;
+    height: 150px
     padding-top: 20px;
     margin: 40px; 
 }

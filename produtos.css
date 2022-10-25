@@ -1,6 +1,6 @@
 
-cabeçalho {
-    fundo :  # f7e0f3 ;
+.cabeçalho {#
+    fundo :  #f7e0f3 ;
 }
 
 nav  li {
@@ -31,12 +31,12 @@ navegação {
     direita :  0 ;
 }
 
-. bolo {
+. nivus{
     largura :  350px ; _
     altura :  350px ; _
 }
 
-. cupcake {
+. amarok v6 {
     largura :  300px ; _
     altura :  300px ; _
 }

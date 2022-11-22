@@ -100,11 +100,24 @@ footer {
     height: 350px;
  }
 
- main{
+ main {
     width: 940px;
     margin: 0 auto;
  }
 
- form{
+ form {
     margin: 40 px 0;
+ }
+
+ form label {
+    display:black;
+    font-size: 20px;
+    margin: 0 0 10px;
+ }
+
+ form input {
+    display:black;
+    margin: 0 0 20px;
+    pading: 10px 25px;
+    width: 50%;
  }
